@@ -3,5 +3,6 @@
 package-lock.json
 composer.lock
 composer.phar
+composer-setup.php
 style.css.map
 .DS_Store
